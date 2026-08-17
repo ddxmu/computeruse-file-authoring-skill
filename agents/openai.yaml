@@ -1,0 +1,7 @@
+interface:
+  display_name: "ComputerUse 文件编写助手"
+  short_description: "用 ComputerUse 完成文件编写、排版、流程图和保存"
+  default_prompt: "使用 $computeruse-file-authoring 在指定文件夹创建、排版、生成流程图并保存文件。"
+
+policy:
+  allow_implicit_invocation: true
